@@ -6,3 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+directory "/tmp/hoge" do
+  action :create
+end
